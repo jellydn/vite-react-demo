@@ -31,7 +31,7 @@
     "@types/react-dom": "18.3.5",
     "@typescript-eslint/eslint-plugin": "7.18.0",
     "@typescript-eslint/parser": "7.18.0",
-    "@vitejs/plugin-react-swc": "3.7.2",
+    "@vitejs/plugin-react-swc": "3.8.0",
     "autoprefixer": "10.4.20",
     "core-js": "3.40.0",
     "postcss": "8.5.1",
