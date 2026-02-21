@@ -24,7 +24,7 @@
     "tailwindcss-animate": "1.0.7"
   },
   "devDependencies": {
-    "@biomejs/biome": "1.9.4",
+    "@biomejs/biome": "2.4.4",
     "@hookform/devtools": "4.4.0",
     "@types/node": "20.19.33",
     "@types/react": "18.3.28",
